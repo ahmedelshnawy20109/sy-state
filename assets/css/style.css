@@ -577,7 +577,7 @@ a:visited {
 }
 
 .sub-title {
-  color: #5E350F;
+  color: #282828;
   font-size: 16px;
   font-weight: 700;
   line-height: 1;
@@ -997,7 +997,7 @@ input[type=submit]:focus {
 }
 
 .button-round {
-  background-color: #9B7A5B;
+  background-color: #2CC0D4;
   border: none;
   color: #ffffff;
   display: inline-block;
@@ -1231,7 +1231,7 @@ input[type=submit]:focus {
 }
 
 .to-top-icon {
-  background-color: rgba(106, 69, 30, 0.7);
+  background-color: #2CC0D4;
   color: #ffffff;
   font-size: 12px;
   display: none;
@@ -1941,7 +1941,7 @@ input[type=submit]:focus {
   margin-bottom: 0;
 }
 .site-identity img {
-  max-width: 170px;
+  max-width: 280px;
   -webkit-transition: opacity 0.4s linear;
   -moz-transition: opacity 0.4s linear;
   -ms-transition: opacity 0.4s linear;
@@ -2782,7 +2782,9 @@ input[type=submit]:focus {
 >>> Home Banner Section  
 ----------------------------------------------------------------*/
 .home-banner {
-background-image: radial-gradient(at top left, #45311e, #D9B089);  padding-bottom: 100px;
+
+background-image: radial-gradient(at top left, #0A8D9F, #2CC0D4
+);  padding-bottom: 100px;
   position: relative;
   z-index: 1;
 }
@@ -2919,11 +2921,11 @@ background-image: radial-gradient(at top left, #45311e, #D9B089);  padding-botto
   margin-bottom: 26px;
 }
 .process-item .process-head i {
-  color: #9B7A5B;
+  color: #2CC0D4;
   font-size: 70px;
 }
 .process-item .process-head .count-no {
-  color: #D9D9D9;
+  color: #2CC0D494;
   font-size: 50px;
   font-weight: 700;
   line-height: 1.1;
@@ -3116,7 +3118,7 @@ background-image: radial-gradient(at top left, #45311e, #D9B089);  padding-botto
   margin-bottom: -100px;
 }
 .primary-bg-callback .callback-inner {
-background-image: radial-gradient(at top left, #45311e, #D9B089);}
+background-image: radial-gradient(at top left, #046B79, #2CC0D4 );}
 .primary-bg-callback .callback-inner .overlay {
   background-image: url(../images/banner-pattern.png);
   -webkit-border-radius: 25px;
@@ -3397,7 +3399,7 @@ background-image: radial-gradient(at top left, #45311e, #D9B089);}
   z-index: 1;
 }
 .subscribe-section-blue .subscribe-outer {
-background-image: radial-gradient(at top left, #45311e, #D9B089);  position: relative;
+background-image: radial-gradient(at top left, #046B79, #2CC0D4 );  position: relative;
 }
 .subscribe-section-blue .subscribe-inner {
   position: relative;
@@ -3609,7 +3611,7 @@ background-image: radial-gradient(at top left, #45311e, #D9B089);  position: rel
 ----------------------------------------------------------------*/
 .counter-section-blue .overlay {
   background-color: transparent;
-background-image: radial-gradient(at top left, #45311e, #D9B089);  -webkit-border-radius: 25px;
+background-image: radial-gradient(at top left, #046B79, #2CC0D4 );  -webkit-border-radius: 25px;
   -moz-border-radius: 25px;
   -ms-border-radius: 25px;
   border-radius: 25px;
@@ -3654,7 +3656,7 @@ background-image: radial-gradient(at top left, #45311e, #D9B089);  -webkit-borde
   text-align: center;
 }
 .counter-item i {
-  color: #9B7A5B;
+  color: #2CC0D4;
   font-size: 70px;
   display: block;
   margin-bottom: 8px;
@@ -3783,7 +3785,7 @@ background-image: radial-gradient(at top left, #45311e, #D9B089);  -webkit-borde
 >>> Main Footer  
 ----------------------------------------------------------------*/
 .site-footer {
-background-image: radial-gradient(at top left, #45311e, #D9B089);  padding-top: 150px;
+background-image: radial-gradient(at top left, #046B79, #2CC0D4 );  padding-top: 150px;
   position: relative;
   z-index: 1;
 }
@@ -3838,7 +3840,7 @@ background-image: radial-gradient(at top left, #45311e, #D9B089);  padding-top: 
   margin: 0 5px;
 }
 .site-footer .social-links li a {
-  background-color: #9b7a5b;
+  background-color: #2CC0D4;
   -webkit-border-radius: 100%;
   -moz-border-radius: 100%;
   -ms-border-radius: 100%;
